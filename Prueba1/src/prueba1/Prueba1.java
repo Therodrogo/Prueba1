@@ -4,6 +4,11 @@ public class Prueba1 {
 
     public static void main(String[] args) {
         //Hola que hace 
+
+
+        int edad=18;
+
+
     }
-    system.out.println("holaque hace");
+    System.out.println("hola que hace");
 }
