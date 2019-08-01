@@ -7,7 +7,8 @@ package prueba1;
 public class Persona {
     
     private String Nombre;
-
+    private int edad;
+    
     public String getNombre() {
         return Nombre;
     }
@@ -15,6 +16,15 @@ public class Persona {
     public void setNombre(String Nombre) {
         this.Nombre = Nombre;
     }
+
+    public int getEdad() {
+        return edad;
+    }
+
+    public void setEdad(int edad) {
+        this.edad = edad;
+    }
+    
     
     
 }
