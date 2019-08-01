@@ -9,6 +9,8 @@ public class Prueba1 {
         int edad=18;
         System.out.println("hola que hace");
         System.out.println(edad);
+        
+        System.out.println(edadlegal);
 
     }
     
